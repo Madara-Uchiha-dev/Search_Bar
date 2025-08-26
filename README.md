@@ -1,57 +1,77 @@
-# SearchBar V1 - User Guide
+🔎 SearchBar V1
 
-## 📌 Overview
-`searchbar_V1.exe` is a lightweight desktop search tool that allows you to quickly search the web (e.g., DuckDuckGo, Google, etc.) directly from your desktop.  
-It comes with a simple UI and supports custom browser integration.
+[![GitHub release](https://img.shields.io/github/v/release/Madara-Uchiha-dev/Search_Bar?style=for-the-badge)](https://github.com/Madara-Uchiha-dev/Search_Bar/releases)  
+[![Downloads](https://img.shields.io/github/downloads/Madara-Uchiha-dev/Search_Bar/total?style=for-the-badge)](https://github.com/Madara-Uchiha-dev/Search_Bar/releases)  
+[![License](https://img.shields.io/github/license/YOUR-Madara-Uchiha-dev/Search_Bar?style=for-the-badge)](LICENSE.md)  
+[![Stars](https://img.shields.io/github/stars/YOUR-Madara-Uchiha-dev/Search_Bar?style=for-the-badge)](https://github.com/YOUR-Madara-Uchiha-dev/Search_Bar/stargazers) 
 
----
+A lightweight desktop search tool that lets you quickly search the web (Google, DuckDuckGo, etc.) from a floating search bar on your desktop.
+No need to open a browser first — just type, hit Enter, and get instant results.
 
-## ⚙️ Installation
-1. Download the file: **`searchbar_V1.exe`**
-2. Place it in any folder (e.g., `C:\Program Files\SearchBar\`).
-3. (Optional) Create a shortcut on your Desktop or Taskbar:
-   - Right-click → *Create Shortcut* → move it to Desktop/Taskbar.
+🚀 Features
 
----
+✅ Floating desktop search bar
 
-## ▶️ Usage
-1. Double-click **`searchbar_V1.exe`** to launch.
-2. A floating search bar will appear on your desktop.
-3. Type your query into the search bar.
-4. Press **Enter** (or click the search icon) to open results in your default/custom browser.
+✅ Supports DuckDuckGo (default) and Google
 
----
+✅ Custom browser integration (choose your favorite browser)
 
-## 🔍 Features
-- ✅ Floating search bar on desktop  
-- ✅ Supports DuckDuckGo (default)  
-- ✅ Custom browser integration (can be configured in code)  
-- ✅ Rounded corner UI for better look  
-- ✅ Option to minimize or close from system tray  
+✅ Minimal, modern UI with rounded corners
 
----
+✅ Runs in the system tray (minimize/close easily)
 
-## ⌨️ Shortcuts
-- **Enter** → Search  
-- **Esc** → Close search bar  
+✅ Simple keyboard shortcuts for fast search
 
----
+📥 Download & Installation
 
-## 🛠️ Troubleshooting
-- If the search bar does not appear:
-  - Check if your antivirus blocked it.
-  - Run as Administrator once if permissions are required.
-- If the wrong browser opens:
-  - Update your default browser in Windows settings or edit the source code to specify one.
+Download the latest release: SearchBar V1.exe
 
----
+Place the file anywhere (e.g., C:\Program Files\SearchBar\).
 
-## 📄 License
-This program was created as a personal project.  
-You may use and distribute it freely, but modifying the executable is not recommended.
+(Optional) Create a shortcut on your Desktop or Taskbar:
 
----
+Right-click → Create Shortcut → Move it where you want.
 
-## 👨‍💻 Author
-Developed by **Madara Uchiha**
+▶️ How to Use
 
+Launch searchbar_V1.exe.
+
+A floating search bar will appear.
+
+Type your query → Press Enter → Your browser opens results instantly.
+
+⌨️ Keyboard Shortcuts
+
+Enter → Search query
+
+Esc → Close the search bar
+
+🛠️ Troubleshooting
+
+Search bar not showing?
+
+Check if antivirus blocked it.
+
+Try running as Administrator once.
+
+Wrong browser opening?
+
+Update your Windows default browser,
+
+Or edit the source code for a custom browser.
+
+📜 License
+
+This project is licensed under the MIT License
+.
+Free to use, modify, and distribute.
+
+☕ If you like this project, consider buying me a coffee
+ as a token of appreciation!
+
+👨‍💻 Author
+
+Developed by Madara Uchiha 🐉
+A personal project built for speed, simplicity, and productivity.
+
+🔑 Keywords for SEO: desktop search bar, floating search bar for Windows, DuckDuckGo desktop app, Google search desktop shortcut, lightweight search tool, open source search bar.
