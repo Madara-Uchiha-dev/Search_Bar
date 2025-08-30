@@ -22,7 +22,7 @@ No need to open a browser first — just type, hit Enter, and get instant result
 
 📥 Download & Installation
 
-Download the latest release: [[!SearchBar V1.exe](https://github.com/Madara-Uchiha-dev/Search_Bar/releases/download/versions/Search_Bar.v1.exe)].
+Download the latest release: [!SearchBar V1.exe](https://github.com/Madara-Uchiha-dev/Search_Bar/releases/download/versions/Search_Bar.v1.exe).
 
 Place the file anywhere (e.g., C:\Program Files\SearchBar\).
 
