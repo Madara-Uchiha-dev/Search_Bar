@@ -1,6 +1,6 @@
 🔎 SearchBar V1
 
-[![GitHub release](https://img.shields.io/github/v/release/Madara-Uchiha-dev/Search_Bar?style=for-the-badge)](https://github.com/Madara-Uchiha-dev/Search_Bar/releases/download/versions)   
+[![GitHub release](https://img.shields.io/github/v/release/Madara-Uchiha-dev/Search_Bar?style=for-the-badge)](https://github.com/Madara-Uchiha-dev/Search_Bar/releases)   
 [![License](https://img.shields.io/github/license/Madara-Uchiha-dev/Search_Bar?label=license&style=for-the-badge)](LICENSE)
 
 A lightweight desktop search tool that lets you quickly search the web (Google, DuckDuckGo, etc.) from a floating search bar on your desktop.
