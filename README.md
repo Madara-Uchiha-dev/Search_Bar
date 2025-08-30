@@ -30,7 +30,7 @@ Place the file anywhere (e.g., C:\Program Files\SearchBar\).
 
 Right-click → Create Shortcut → Move it where you want.
 
-'' '''▶️ How to Use
+'''▶️ How to Use
 
 Launch searchbar_V1.exe.
 
