@@ -37,7 +37,6 @@ Launch searchbar_V1.exe.
 A floating search bar will appear.
 
 Type your query → Press Enter → Your browser opens results instantly.
-'''
 
 ⌨️ Keyboard Shortcuts
 
