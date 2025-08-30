@@ -6,7 +6,7 @@
 A lightweight desktop search tool that lets you quickly search the web (Google, DuckDuckGo, etc.) from a floating search bar on your desktop.
 No need to open a browser first — just type, hit Enter, and get instant results.
 
-🚀 Features
+``` 🚀 Features
 
 ✅ Floating desktop search bar
 
@@ -19,6 +19,7 @@ No need to open a browser first — just type, hit Enter, and get instant result
 ✅ Runs in the system tray (minimize/close easily)
 
 ✅ Simple keyboard shortcuts for fast search
+```
 
 📥 Download & Installation
 
@@ -30,46 +31,51 @@ Place the file anywhere (e.g., C:\Program Files\SearchBar\).
 
 Right-click → Create Shortcut → Move it where you want.
 
-▶️ How to Use
-
+### ▶️ How to Use
+```
 Launch searchbar_V1.exe.
 
 A floating search bar will appear.
 
 Type your query → Press Enter → Your browser opens results instantly.
-
-⌨️ Keyboard Shortcuts
-
+```
+### ⌨️ Keyboard Shortcuts
+```
 Enter → Search query
 
 Esc → Close the search bar
+```
+### 🛠️ Troubleshooting
 
-🛠️ Troubleshooting
-
-Search bar not showing?
+``` 1. Search bar not showing?
 
 Check if antivirus blocked it.
 
 Try running as Administrator once.
+```
 
-Wrong browser opening?
+```2. Wrong browser opening?
 
 Update your Windows default browser,
 
 Or edit the source code for a custom browser.
+```
 
-📜 License
-
+### 📜 License
+```
 This project is licensed under the MIT License
 .
 Free to use, modify, and distribute.
 
 ☕ If you like this project, consider buying me a coffee
  as a token of appreciation!
-
-👨‍💻 Author
-
+```
+### 👨‍💻 Author
+```
 Developed by Madara Uchiha 🐉
 A personal project built for speed, simplicity, and productivity.
-
-🔑 Keywords for SEO: desktop search bar, floating search bar for Windows, DuckDuckGo desktop app, Google search desktop shortcut, lightweight search tool, open source search bar.
+```
+### 🔑 Keywords for SEO:
+```
+desktop search bar, floating search bar for Windows, DuckDuckGo desktop app, Google search desktop shortcut, lightweight search tool, open source search bar.
+```
