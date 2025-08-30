@@ -1,4 +1,4 @@
-🔎 SearchBar V1
+# 🔎 SearchBar V1
 
 [![GitHub release](https://img.shields.io/github/v/release/Madara-Uchiha-dev/Search_Bar?style=for-the-badge)](https://github.com/Madara-Uchiha-dev/Search_Bar/releases)   
 [![License](https://img.shields.io/github/license/Madara-Uchiha-dev/Search_Bar?label=license&style=for-the-badge)](LICENSE)
@@ -6,7 +6,8 @@
 A lightweight desktop search tool that lets you quickly search the web (Google, DuckDuckGo, etc.) from a floating search bar on your desktop.
 No need to open a browser first — just type, hit Enter, and get instant results.
 
-``` 🚀 Features
+#### 🚀 Features
+``` 
 
 ✅ Floating desktop search bar
 
@@ -21,7 +22,7 @@ No need to open a browser first — just type, hit Enter, and get instant result
 ✅ Simple keyboard shortcuts for fast search
 ```
 
-📥 Download & Installation
+#### 📥 Download & Installation
 
 Download the latest release: [SearchBar V1.exe](https://github.com/Madara-Uchiha-dev/Search_Bar/releases/download/versions/Search_Bar.v1.exe).
 
@@ -31,7 +32,7 @@ Place the file anywhere (e.g., C:\Program Files\SearchBar\).
 
 Right-click → Create Shortcut → Move it where you want.
 
-### ▶️ How to Use
+#### ▶️ How to Use
 ```
 Launch searchbar_V1.exe.
 
@@ -39,38 +40,33 @@ A floating search bar will appear.
 
 Type your query → Press Enter → Your browser opens results instantly.
 ```
-### ⌨️ Keyboard Shortcuts
+#### ⌨️ Keyboard Shortcuts
 ```
 Enter → Search query
 
 Esc → Close the search bar
 ```
-### 🛠️ Troubleshooting
-
-``` 1. Search bar not showing?
-
+#### 🛠️ Troubleshooting
+1. Search bar not showing?
+``` 
 Check if antivirus blocked it.
-
 Try running as Administrator once.
 ```
-
-```2. Wrong browser opening?
-
+2. Wrong browser opening?
+```
 Update your Windows default browser,
-
 Or edit the source code for a custom browser.
 ```
 
-### 📜 License
+#### 📜 License
 ```
-This project is licensed under the MIT License
-.
+This project is licensed under the MIT License.
 Free to use, modify, and distribute.
 
 ☕ If you like this project, consider buying me a coffee
  as a token of appreciation!
 ```
-### 👨‍💻 Author
+#### 👨‍💻 Author
 ```
 Developed by Madara Uchiha 🐉
 A personal project built for speed, simplicity, and productivity.
