@@ -75,3 +75,9 @@ A personal project built for speed, simplicity, and productivity.
 ```
 desktop search bar, floating search bar for Windows, DuckDuckGo desktop app, Google search desktop shortcut, lightweight search tool, open source search bar.
 ```
+### Bitcoin Wallet
+```
+bc1qjgemh9nf73mhghqshsghepv0y0622g2fdgdx74
+```
+<img width="200" height="200" alt="bc1qjgemh9nf73mhghqshsghepv0y0622g2fdgdx74" src="https://github.com/user-attachments/assets/38f0a059-59ab-4da9-bce5-f94a18376b89" />
+
